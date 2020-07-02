@@ -1,0 +1,30 @@
+06/23/2020 03:19:21 PM - HomePage - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+06/23/2020 03:19:23 PM - HomePage - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+06/23/2020 03:45:27 PM - HomePage - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+06/23/2020 03:45:27 PM - HomePage - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+06/23/2020 03:47:07 PM - HomePage - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+06/23/2020 03:47:08 PM - HomePage - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+06/26/2020 10:33:53 AM - HomePage - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+06/26/2020 10:33:53 AM - HomePage - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+06/26/2020 11:48:27 AM - HomePage - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+06/26/2020 11:48:29 AM - HomePage - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+06/26/2020 11:53:16 AM - HomePage - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+06/26/2020 11:53:17 AM - HomePage - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+06/26/2020 11:53:17 AM - HomePage - INFO: Element Found with locator: //input[@class='nav-input' and @value='Go'] and  locatorType: xpath
+06/26/2020 11:53:19 AM - HomePage - INFO: clicked on element with locator //input[@class='nav-input' and @value='Go']locatorTypexpath
+06/26/2020 11:53:28 AM - HomePage - INFO: Element Found with locator: //span[text()='Apple iPhone 11 (64GB) - White']/.. and  locatorType: xpath
+06/26/2020 11:53:30 AM - HomePage - INFO: clicked on element with locator //span[text()='Apple iPhone 11 (64GB) - White']/..locatorTypexpath
+06/26/2020 12:04:01 PM - HomePage - INFO: Element not found with locator: twotabsearchtextbox and  locatorType: id
+06/26/2020 12:04:01 PM - HomePage - INFO: Cannot send data on the element with locator: twotabsearchtextbox locatorType: id
+06/26/2020 12:04:01 PM - HomePage - INFO: Element not found with locator: //input[@class='nav-input' and @value='Go'] and  locatorType: xpath
+06/26/2020 12:04:01 PM - HomePage - INFO: Cann't click on element with locator //input[@class='nav-input' and @value='Go']locatorTypexpath
+06/26/2020 12:04:05 PM - HomePage - INFO: Element not found with locator: //span[text()='Apple iPhone 11 (64GB) - White']/.. and  locatorType: xpath
+06/26/2020 12:04:05 PM - HomePage - INFO: Cann't click on element with locator //span[text()='Apple iPhone 11 (64GB) - White']/..locatorTypexpath
+06/26/2020 12:05:03 PM - HomePage - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+06/26/2020 12:05:04 PM - HomePage - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+06/26/2020 12:05:04 PM - HomePage - INFO: Element Found with locator: //input[@class='nav-input' and @value='Go'] and  locatorType: xpath
+06/26/2020 12:05:21 PM - HomePage - INFO: clicked on element with locator //input[@class='nav-input' and @value='Go']locatorTypexpath
+06/26/2020 12:05:24 PM - HomePage - INFO: Element Found with locator: //span[text()='Apple iPhone 11 (64GB) - White']/.. and  locatorType: xpath
+06/26/2020 12:05:25 PM - HomePage - INFO: clicked on element with locator //span[text()='Apple iPhone 11 (64GB) - White']/..locatorTypexpath
+06/26/2020 12:06:13 PM - AddToCart - INFO: Element Found with locator: add-to-cart-button and  locatorType: id
+06/26/2020 12:07:01 PM - AddToCart - INFO: clicked on element with locator add-to-cart-buttonlocatorTypeid
